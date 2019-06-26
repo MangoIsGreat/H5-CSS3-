@@ -1,7 +1,0 @@
-$(function () {
-	$('#body-right').mouseenter(function(event) {
-		$(this).addClass('body-right');
-	}).mouseleave(function(event) {
-		$(this).moveClass('body-right');
-	});
-});
